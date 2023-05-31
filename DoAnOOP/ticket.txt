@@ -1,0 +1,192 @@
+TN_01
+T02
+KHD_01
+VN431
+Business Class
+Vietnam Airlines
+HD01
+GIAM10
+NN_02
+T01
+KHD_09
+VN254
+Business Class
+Vietnam Airlines
+HD01
+VISA341234
+TN_02
+A02
+KHD_02
+VN431
+Economy Class
+Vietnam Airlines
+HD01
+GIAM10
+TN_03
+F01
+KHD_03
+VN320
+First Class
+Vietnam Airlines
+HD02
+GIAM10
+TN_04
+P01
+KHD_12
+VN280
+Premium Class
+Jetstar Pacific Airlines
+HD02
+GIAM20
+TN_05
+C01
+KHD_13
+VN374
+Economy Class
+Jetstar Pacific Airlines
+HD03
+GIAM50
+TN_06
+F01
+KHD_10
+VN830
+First Class
+VietJet Air
+HD05
+GIAM20
+NN_03
+T04
+KHD_11
+VN269
+Business Class
+Vietnam Airlines
+HD01
+VISA201948
+NN_04
+P05
+KHD_04
+VN254
+Premium Class
+Jetstar Pacific Airlines
+HD02
+VISA685944
+NN_05
+F03
+KHD_05
+VN315
+First Class
+Vietnam Airlines
+HD03
+VISA867459
+NN_06
+A02
+KHD_06
+VN317
+Economy Class
+VietJet Air
+HD01
+VISA745645
+NN_07
+P04
+KHD_07
+VN651
+Premium Class
+Jetstar Pacific Airlines
+HD04
+VISA856844
+NN_08
+T05
+KHD_08
+VN156
+Business Class
+VietJet Air
+HD03
+VISA354344
+NN_09
+B02
+KHD_09
+VN315
+Economy Class
+Jetstar Pacific Airlines
+HD06
+VISA847432
+NN_10
+T02
+KHD_10
+VN160
+Business Class
+VietJet Air
+HD07
+VISA453222
+NN_11
+P04
+KHD_11
+VN380
+Business Class
+Vietnam Airlines
+HD08
+VISA123456
+NN_12
+F01
+KHD_18
+VN315
+First Class
+VietJet Air
+HD15
+VISA254345
+TN_07
+C01
+KHD_19
+VN374
+Economy Class
+Jetstar Pacific Airlines
+HD15
+GIAM50
+TN_08
+F03
+KHD_20
+VN320
+First Class
+VietJet Air
+HD14
+GIAM10
+TN_09
+C01
+KHD_21
+VN280
+Economy Class
+Vietnam Airlines
+HD05
+GIAM50
+TN_10
+T04
+KHD_22
+VN840
+Business Class
+VietJet Air
+HD09
+GIAM20
+TN_11
+T05
+KHD_23
+VN374
+Business Class
+Vietnam Airlines
+HD05
+GIAM20
+TN_12
+F01
+KHD_24
+VN830
+First Class
+Jetstar Pacific Airlines
+HD19
+GIAM50
+TN_788
+T4
+KHM_788
+VN320
+Business Class
+Vietnam Airlines
+HDKHM_788
+GIAM10

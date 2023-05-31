@@ -1,0 +1,10 @@
+FC
+First Class
+BC
+Business Class
+PC
+Premium Class
+EC
+Economy Class
+KN
+Kien Nong

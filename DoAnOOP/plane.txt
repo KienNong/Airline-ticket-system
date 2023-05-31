@@ -1,0 +1,84 @@
+747
+VietNam Airlines
+Boeing 747
+20
+737
+VietNam Airlines
+Boeing 737
+20
+777
+VietNam Airlines
+Boeing 777
+20
+314
+VietNam Airlines
+Tupolev 134
+20
+320
+VietNam Airlines
+Airbus A320
+20
+319
+VietNam Airlines
+Airbus A319
+20
+144
+VietNam Airlines
+Tupolev 144
+20
+707
+Jetstar Pacific Airlines
+Boeing 707
+20
+787
+Jetstar Pacific Airlines
+Boeing 787
+20
+300
+Jetstar Pacific Airlines
+Airbus A300
+20
+310
+Jetstar Pacific Airlines
+Airbus A310
+20
+224
+Jetstar Pacific Airlines
+Tupolev 224
+20
+360
+Jetstar Pacific Airlines
+Airbus A360
+20
+370
+Jetstar Pacific Airlines
+Airbus A370
+20
+380
+VietJet Air
+Airbus A380
+20
+330
+VietJet Air
+Airbus A330
+20
+114
+VietJet Air
+Tupolev 114
+20
+204
+VietJet Air
+Tupolev 204
+20
+767
+VietJet Air
+Boeing 767
+20
+124
+VietJet Air
+Tupolev 124
+20
+104
+VietJet Air
+Tupolev 104
+20
